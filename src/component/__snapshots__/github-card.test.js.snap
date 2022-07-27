@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top card-img-top"
+      src="https://avatars.githubusercontent.com/u/66382423?v=4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Samuel Gonzalez
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a Novice Full Stack Software Developer learning how to use React and Bootstrap.
+      </p>
+      <a
+        class="btn btn-link"
+        href="#"
+        onClick="https://github.com/samglz10?tab=projects&type=new"
+      >
+        Please click here for my Github Profile
+      </a>
+    </div>
+  </div>
+</div>
+`;

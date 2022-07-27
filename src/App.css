@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.card-img-top {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+height: 25vw;
+
+
+}
